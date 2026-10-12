@@ -106,4 +106,4 @@ Cada pregunta se resolvió con el mismo esquema de trabajo:
 
 **Valentín** · Estudiante de Analista en Sistemas
 
-[GitHub](https://github.com/Valentin-Justel5/Proyecto-Analisis-de-datos/tree/main)
+[GitHub](https://github.com/Valentin-Justel5/Proyecto-Analisis-de-datos)
